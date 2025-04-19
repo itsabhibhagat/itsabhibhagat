@@ -1,68 +1,98 @@
-# 👋 Hello there, I'm Abhijeet Kumar Bhagat
+<!-- Banner (optional) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Abhijeet+Kumar+Bhagat;Frontend+Dev+%7C+CSE+Student+%7C+Tech+Enthusiast;Always+Learning+%F0%9F%93%9A+Creating+%F0%9F%92%BB+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
+</p>
 
-🎓 **Computer Science Student** | 💻 **Frontend Developer**  
-📍 Bhilai, Chhattisgarh | 📅 B.Tech CSE | SSTC (2021 - Present)
-
----
-
-## 🚀 About Me
-
-I'm a frontend software developer passionate about creating sleek, responsive web apps using **React.js** and **Tailwind CSS**. I enjoy turning ideas into code and love working on projects that solve real-world problems.
+<h1 align="center">🌟 Welcome to My Developer Space 🌟</h1>
 
 ---
 
-## 🔧 Tech Stack & Tools
+### 👨‍💻 About Me
 
-- 🧠 **Languages**: JavaScript, Python, Java, C++
-- 🧱 **Frontend**: React.js, Tailwind CSS, Bootstrap
-- 📡 **Backend/DB**: Firebase (Realtime DB, Auth)
-- 🛠️ **Tools**: Git, GitHub, VS Code, IntelliJ, Jupyter Notebook
-
----
-
-## 📚 Certifications
-
-- ✅ Python Zero to Hero – Udemy  
-- ✅ Data Structures & Algorithms – CodeHelp  
-- ✅ Generative AI – DeepLearning.AI
+- 🎓 **B.Tech CSE Student** at SSTC, Bhilai (2021 - Present)  
+- 💻 Passionate about **Frontend Development**  
+- 🌐 Currently building a **Social Media Platform for Developers**  
+- 🚀 Tech Explorer | AI/ML Enthusiast | Open Source Learner  
+- ✨ Always ready to learn and create something awesome!
 
 ---
 
-## 🌐 Projects
+### 🧰 Tech Toolbox
 
-### 🛒 E-Commerce Website
-**Stack**: React.js, Tailwind CSS, Firebase  
-- Built a responsive e-commerce platform with real-time Firebase database.  
-- Integrated secure login and admin dashboard.  
-- Improved load time by 30% with efficient UI/UX and architecture.
-
-### 📘 Top Courses Platform  
-**Stack**: React.js, Tailwind CSS  
-- Dynamic course listings with REST API integration.  
-- Advanced filtering, real-time updates, and liking feature using React hooks.
-
-### 🎓 Ed-Tech Web App  
-**Stack**: React.js, Tailwind CSS  
-- Multi-page educational platform with secure token-based auth.  
-- Achieved higher user engagement and reduced latency.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,js,py,java,cpp,firebase,git,github,bootstrap,vscode" />
+</p>
 
 ---
 
-## 📈 GitHub Stats
+### 📚 Certifications
 
-![Abhijeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsabhibhagat&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsabhibhagat&layout=compact&theme=tokyonight)
-
----
-
-## 📬 Connect with Me
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/abhijeet-bhagat)  
-- 📧 [bhilai.abhijeet@gmail.com](mailto:bhilai.abhijeet@gmail.com)  
-- 💻 [GitHub Profile](https://github.com/itsabhibhagat)
+- 🐍 Python Zero to Hero – *Udemy*  
+- 📘 DSA with CodeHelp – *Love Babbar*  
+- 🤖 Generative AI – *DeepLearning.AI*
 
 ---
 
-_“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
+### 🌟 Featured Projects
 
+#### 🛍️ **E-Commerce Website**
+> 🧩 React.js | Tailwind CSS | Firebase  
+> ✅ Fast UI, secure login, product & order management  
+> 🚀 Reduced load time by 30%
+
+#### 📘 **Top Courses Website**
+> 🧠 React.js | Hooks | REST APIs  
+> ✅ Liking & filtering features  
+> 📈 User engagement boosted by 20%
+
+#### 🎓 **Ed-Tech Platform**
+> 🖥️ Multi-page React App  
+> 🔐 Secure token-based authentication  
+> 📊 Increased user retention by 15%
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsabhibhagat&show_icons=true&theme=radical&border_radius=10&hide=issues&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsabhibhagat&layout=compact&theme=radical&border_radius=10" height="165"/>
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=itsabhibhagat&theme=monokai&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+### 📈 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=itsabhibhagat&theme=tokyonight&border_radius=5" />
+</p>
+
+---
+
+### 📬 Let’s Connect!
+
+<p align="center">
+  <a href="mailto:bhilai.abhijeet@gmail.com"><img src="https://img.shields.io/badge/Gmail-bhilai.abhijeet@gmail.com-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/abhijeet-bhagat"><img src="https://img.shields.io/badge/LinkedIn-AbhijeetBhagat-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/itsabhibhagat"><img src="https://img.shields.io/badge/GitHub-itsabhibhagat-181717?style=for-the-badge&logo=github"></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=itsabhibhagat&label=Profile+Views&color=brightgreen&style=flat" />
+</p>
+
+---
+
+<p align="center">
+  <b>"Code never lies, comments sometimes do." – Ron Jeffries</b>  
+</p>
