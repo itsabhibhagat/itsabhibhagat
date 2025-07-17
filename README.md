@@ -10,7 +10,6 @@
 ### 🧾 TL;DR
 
 - 🎓 Final-year CSE @ SSTC, Bhilai  
-- 💼 Java + Spring Boot Intern @ Cognizant  
 - 🖥️ Frontend: React.js, Tailwind CSS  
 - 🔙 Backend: Java, Spring Boot, Maven  
 - 🛠️ Tools: Git, GitHub, VSCode, IntelliJ, Postman, SQL
